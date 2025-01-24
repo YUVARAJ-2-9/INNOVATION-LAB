@@ -1,4 +1,3 @@
-package ExerciseProblems;
 import java.util.Scanner;
 class Area {
 
